@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  MonthYear Picker
+//  MonthYearPicker
 //
 //  Created by Ho Huyen Luong on 18/11/2022.
 //
